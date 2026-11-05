@@ -23,8 +23,12 @@ A machine learning solution that classifies card transactions as fraudulent or l
 
 ```
 dashboard/index.html   Self-contained dashboard (data embedded)
-notebook/              Analysis and model training notebook
+notebook/              Analysis and model training notebook (outputs included)
 ```
+
+## Data
+
+The transaction files come from a case study and are not published here. The notebook expects `transacoes_historico_2025.csv` and the January 2026 file in the same folder (or in `ATF-DataScience/`).
 
 ## Tech
 

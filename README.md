@@ -2,7 +2,7 @@
 
 A machine learning solution that classifies card transactions as fraudulent or legitimate, plus an interactive dashboard to monitor the results.
 
-**Live dashboard:** enable GitHub Pages on this repository (Settings → Pages → Deploy from branch `main`, folder `/dashboard`) and it opens at `https://dudumimimax-code.github.io/fraud-detetion/`.
+**Live dashboard:** https://dudumimimax-code.github.io/Fraud-Detetion/
 
 ## Highlights
 
